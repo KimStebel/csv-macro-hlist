@@ -1,0 +1,7 @@
+cd csv-macro-hlist
+sbt12-rc2 package
+cd ..
+cd csv-macro-hlist-test
+sbt12-rc2 run
+cd ..
+

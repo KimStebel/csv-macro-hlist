@@ -1,0 +1,10 @@
+*.swp
+.cache
+.classpath
+.settings
+.project
+.metadata
+csv-macro-hlist/target
+csv-macro-hlist-test/target
+csv-macro-hlist/project
+csv-macro-hlist-test/project
